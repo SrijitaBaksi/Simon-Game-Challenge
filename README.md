@@ -4,7 +4,7 @@ Welcome to the Simon Game! This is a fun memory game where the player must repea
 
 
 ## *📸 Screenshots*:
-![Simon_game](Screenshot.jpeg)
+![Simon_game](screenshot.jpeg)
 
 ## Features
 - Interactive gameplay with increasing difficulty
